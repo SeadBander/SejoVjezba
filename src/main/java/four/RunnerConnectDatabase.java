@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 public class RunnerConnectDatabase {
-    public static void main(String[] args) throws SQLException {
+    public static void main(String[] args) {
 
         /*CustomerDao customerDao = new CustomerDao();
         List<Customer> customers = customerDao.getAll();
