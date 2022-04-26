@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="six.Person">
+    <void property="age">
+     <int>15</int>
+    </void>
+    <void property="jmbg">
+     <string>123456</string>
+    </void>
+    <void property="name">
+     <string>Sejo</string>
+    </void>
+    <void property="surname">
+     <string>Bander</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="six.Person">
+    <void property="age">
+     <int>16</int>
+    </void>
+    <void property="jmbg">
+     <string>321654</string>
+    </void>
+    <void property="name">
+     <string>Sejo1</string>
+    </void>
+    <void property="surname">
+     <string>Bander1</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="six.Person">
+    <void property="age">
+     <int>17</int>
+    </void>
+    <void property="jmbg">
+     <string>654789</string>
+    </void>
+    <void property="name">
+     <string>Sejo2</string>
+    </void>
+    <void property="surname">
+     <string>Bander2</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="six.Person">
+    <void property="age">
+     <int>18</int>
+    </void>
+    <void property="jmbg">
+     <string>987456</string>
+    </void>
+    <void property="name">
+     <string>Sejo3</string>
+    </void>
+    <void property="surname">
+     <string>Bander3</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="six.Person">
+    <void property="age">
+     <int>19</int>
+    </void>
+    <void property="jmbg">
+     <string>369852</string>
+    </void>
+    <void property="name">
+     <string>Sejo4</string>
+    </void>
+    <void property="surname">
+     <string>Bander4</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
