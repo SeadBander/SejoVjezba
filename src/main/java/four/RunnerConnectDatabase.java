@@ -21,7 +21,8 @@ public class RunnerConnectDatabase {
         JFrame frame = new JFrame();
         frame.setTitle("Table GUI");
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        CustomerTablePanel panel = new CustomerTablePanel();
+        //CustomerTablePanel panel = new CustomerTablePanel();
+        MediumTablePanel panel = new MediumTablePanel();
         panel.setOpaque(true);
         frame.setContentPane(panel);
         frame.pack();
